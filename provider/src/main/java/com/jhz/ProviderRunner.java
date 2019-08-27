@@ -15,5 +15,6 @@ public class ProviderRunner {
         context.start();
         System.out.println("provider start");
         System.in.read();
+        
   }
 }
